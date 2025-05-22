@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/MarioVio1/TV/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1 (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai", RAI 2
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
@@ -19,10 +19,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai", RAI 4
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai", RAI 4 (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="RAI 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai", RAI 4K
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2049087681/index.m3u8
@@ -34,10 +34,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3163380543/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3249873828/index.m3u8
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai", RAI GULP
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1803677691/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1901652742/index.m3u8
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai", RAI GULP (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1901652742/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1803677691/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai", RAI ITALIA
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/374675593/index.m3u8
@@ -64,10 +64,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2861734300/index.m3u8
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai", RAI SCUOLA
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2007798511/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1886684667/index.m3u8
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai", RAI SCUOLA (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1886684667/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2007798511/index.m3u8
 
 #EXTINF:-1 tvg-id="raisport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="Rai", RAI SPORT
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2924135092/index.m3u8
@@ -91,10 +91,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1890950169/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1785501924/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset", 20 MEDIASET
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3134481201/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1230338185/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset", 20 MEDIASET (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1230338185/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3134481201/index.m3u8
 
 #EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 TWENTY SEVEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset", 27 TWENTY SEVEN
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/608774683/index.m3u8
@@ -151,10 +151,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1376440573/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2911178456/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3481346857/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3448075317/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1 (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3448075317/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3481346857/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2317684453/index.m3u8
@@ -265,10 +265,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3342849313/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2198410339/index.m3u8
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport", SUPER TENNIS
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3009377513/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport", SUPER TENNIS (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3009377513/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport", TENNIS CHANNEL
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2716316208/index.m3u8
@@ -319,13 +319,13 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1421393119/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (3)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV", SKY CINEMA COLLECTION
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3525837057/index.m3u8
@@ -355,16 +355,16 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
-
-#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE (2)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1281264885/index.m3u8
 
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE (2)
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
+
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV", SKY CINEMA SUSPENSE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3060043751/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1820997555/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV", SKY CINEMA SUSPENSE (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1820997555/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3060043751/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV", SKY CINEMA UNO
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1759625738/index.m3u8
@@ -376,10 +376,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2872151911/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1699876530/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1944682394/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1492183364/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 1 (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1492183364/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1944682394/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 10
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2268489342/index.m3u8
@@ -406,10 +406,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1284441949/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3470758028/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 2 (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 3
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/573618724/index.m3u8
@@ -418,10 +418,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/573618724/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2416993844/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3137990890/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4 (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3137990890/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2416993844/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 5
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2909818756/index.m3u8
@@ -448,10 +448,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1440779061/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2130255339/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 9
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1134113883/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 9 (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1134113883/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8
 
 #EXTINF:-1 tvg-id="skyserie.it" tvg-name="SKY SERIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film & Serie TV", SKY SERIE
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/836680112/index.m3u8
@@ -493,10 +493,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3938501125/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2265727942/index.m3u8
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini", BOING
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3022771961/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3373510242/index.m3u8
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini", BOING (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3373510242/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3022771961/index.m3u8
 
 #EXTINF:-1 tvg-id="boingplus.it" tvg-name="BOING PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini", BOING PLUS
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3841982646/index.m3u8
@@ -508,10 +508,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1289777017/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1744435623/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (3)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
@@ -556,16 +556,16 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3554841914/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2113273064/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE (2)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2651461317/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE (2)
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
+
 #EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2134724757/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/317837654/index.m3u8
 
 #EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/317837654/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2134724757/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari", NAT GEO
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/179844839/index.m3u8
@@ -748,10 +748,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1527236924/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2381583828/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
 
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro", CINE 34
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/62558606/index.m3u8
@@ -760,10 +760,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/62558606/ind
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/64060922/index.m3u8
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="COMEDY CENTRAL" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro", COMEDY CENTRAL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/433893159/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3658277450/index.m3u8
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="COMEDY CENTRAL" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro", COMEDY CENTRAL (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3658277450/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/433893159/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="COMPANY TV" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" group-title="Altro", COMPANY TV
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1322483308/index.m3u8
@@ -832,10 +832,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2820683351/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2179686828/index.m3u8
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro", GIALLO
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4060499455/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2373936189/index.m3u8
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro", GIALLO (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2373936189/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4060499455/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBUS TELEVISION" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="Altro", GLOBUS TELEVISION
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2116902817/index.m3u8
@@ -853,10 +853,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2897782781/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4248997029/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ICARO TV" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro", ICARO TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2392139008/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2488017405/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ICARO TV" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro", ICARO TV (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2488017405/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2392139008/index.m3u8
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="IRIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Altro", IRIS
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/576490047/index.m3u8
@@ -877,10 +877,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/803540254/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3832171692/index.m3u8
 
 #EXTINF:-1 tvg-id="la5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro", LA 5
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/84139639/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1425667375/index.m3u8
 
 #EXTINF:-1 tvg-id="la5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro", LA 5 (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1425667375/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/84139639/index.m3u8
 
 #EXTINF:-1 tvg-id="la7.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro", LA 7
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2143522071/index.m3u8
@@ -961,10 +961,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2952884641/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1232565681/index.m3u8
 
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro", REAL TIME
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1574975196/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2251241999/index.m3u8
 
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro", REAL TIME (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2251241999/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1574975196/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REGGIO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro", REGGIO TV
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2165549789/index.m3u8
@@ -973,10 +973,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2165549789/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3075118500/index.m3u8
 
 #EXTINF:-1 tvg-id="rete4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Altro", RETE 4
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4198218214/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2235732004/index.m3u8
 
 #EXTINF:-1 tvg-id="rete4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Altro", RETE 4 (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2235732004/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4198218214/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RETE ORO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="Altro", RETE ORO
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3351863213/index.m3u8
@@ -1150,10 +1150,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2814318198/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4020241962/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRENTINO TV" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro", TRENTINO TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2797857045/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2764553737/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRENTINO TV" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro", TRENTINO TV (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2764553737/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2797857045/index.m3u8
 
 #EXTINF:-1 tvg-id="trmh24.it" tvg-name="TRM H24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/trm-h24-it.png?raw=true" group-title="Altro", TRM H24
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2310699492/index.m3u8
@@ -1210,10 +1210,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/376550441/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2070070755/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VERA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro", VERA TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4271554009/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2471902234/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VERA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro", VERA TV (2)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2471902234/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4271554009/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VIDEO NOVARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PvoHpnx0hNKtt435CUaJza2e_qsm5B87Cg&s" group-title="Altro", VIDEO NOVARA
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2791781421/index.m3u8
@@ -1237,23 +1237,23 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/i
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="77" tvg-name="Italy - Serie B : Juve Stabia vs Cremonese (20:30)" tvg-logo="https://raw.githubusercontent.com/MarioVio1/TV/main/logos/Juve Stabia_vs_Cremonese.png" group-title="Eventi Live",Italy - Serie B : Juve Stabia vs Cremonese (20:30)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium77/mono.m3u8
-
-#EXTINF:-1 tvg-id="86" tvg-name="Italy - Serie B : Catanzaro vs Spezia (20:30)" tvg-logo="https://raw.githubusercontent.com/MarioVio1/TV/main/logos/Catanzaro_vs_Spezia.png" group-title="Eventi Live",Italy - Serie B : Catanzaro vs Spezia (20:30)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://dokko1new.newkso.ru/dokko1/premium86/mono.m3u8
-
-#EXTINF:-1 tvg-id="10" tvg-name="UEFA Europa League Final : Tottenham Hotspur vs Manchester United (21:00)" tvg-logo="https://raw.githubusercontent.com/MarioVio1/TV/main/logos/Tottenham Hotspur_vs_Manchester United.png" group-title="Eventi Live",UEFA Europa League Final : Tottenham Hotspur vs Manchester United (21:00)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium10/mono.m3u8
-
-#EXTINF:-1 tvg-id="12" tvg-name="UEFA Europa League Final : Tottenham Hotspur vs Manchester United (21:00)" tvg-logo="logos/Tottenham Hotspur_vs_Manchester United.png" group-title="Eventi Live",UEFA Europa League Final : Tottenham Hotspur vs Manchester United (21:00)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
-
-#EXTINF:-1 tvg-id="870" tvg-name="UEFA Europa League Final : Tottenham Hotspur vs Manchester United (21:00)" tvg-logo="logos/Tottenham Hotspur_vs_Manchester United.png" group-title="Eventi Live",UEFA Europa League Final : Tottenham Hotspur vs Manchester United (21:00)
+#EXTINF:-1 tvg-id="870" tvg-name="Bundesliga : Heidenheim vs Elversberg (20:30)" tvg-logo="https://www.11teamsports.com/cdn-cgi/image/format=webp,width=1400/media/4d/5e/fe/1722925799/puma-1-fc-heidenheim-trikot-home-2024-2025-5fch780527-fan-shop-front.png" group-title="Eventi Live",Bundesliga : Heidenheim vs Elversberg (20:30)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="461" tvg-name="UEFA Europa League Final : Tottenham Hotspur vs Manchester United (21:00)" tvg-logo="logos/Tottenham Hotspur_vs_Manchester United.png" group-title="Eventi Live",UEFA Europa League Final : Tottenham Hotspur vs Manchester United (21:00)
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
+#EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="879" tvg-name="Lega A : Pallacanestro Reggiana vs. Trapani Shark (20:00)" group-title="Eventi Live",Lega A : Pallacanestro Reggiana vs. Trapani Shark (20:00)
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
+
+#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
+https://exemple.m3u8
+
+#EXTINF:-1 tvg-id="851" tvg-name="Giro d'Italia | Stage 12 | Multi-Screen Men | Modena – Viadana (172km) (13:30)" group-title="Eventi Live",Giro d'Italia | Stage 12 | Multi-Screen Men | Modena – Viadana (172km) (13:30)
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
+
+#EXTINF:-1 tvg-id="878" tvg-name="Giro d'Italia | Stage 12 | Multi-Screen Men | Modena – Viadana (172km) (13:30)" group-title="Eventi Live",Giro d'Italia | Stage 12 | Multi-Screen Men | Modena – Viadana (172km) (13:30)
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
@@ -1693,10 +1693,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4162907038/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1371293854/index.m3u8
 
 #EXTINF:-1 tvg-name="BABY TV" group-title="Albania", BABY TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1728862622/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3166917965/index.m3u8
 
 #EXTINF:-1 tvg-name="BABY TV" group-title="Albania", BABY TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3166917965/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1728862622/index.m3u8
 
 #EXTINF:-1 tvg-name="BABY TV (1)" group-title="Albania", BABY TV (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/102200305/index.m3u8
@@ -1705,10 +1705,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/102200305/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1479796180/index.m3u8
 
 #EXTINF:-1 tvg-name="BANG BANG" group-title="Albania", BANG BANG
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2690199992/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2724030116/index.m3u8
 
 #EXTINF:-1 tvg-name="BANG BANG" group-title="Albania", BANG BANG
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2724030116/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2690199992/index.m3u8
 
 #EXTINF:-1 tvg-name="BANG BANG (1)" group-title="Albania", BANG BANG (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3937801799/index.m3u8
@@ -1726,10 +1726,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2409719353/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4104386390/index.m3u8
 
 #EXTINF:-1 tvg-name="BESA TV" group-title="Albania", BESA TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2714601883/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2046985544/index.m3u8
 
 #EXTINF:-1 tvg-name="BESA TV" group-title="Albania", BESA TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2046985544/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2714601883/index.m3u8
 
 #EXTINF:-1 tvg-name="BIG BROTHER (1)" group-title="Albania", BIG BROTHER (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2550632094/index.m3u8
@@ -1882,10 +1882,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3944958227/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1612565654/index.m3u8
 
 #EXTINF:-1 tvg-name="DASMA" group-title="Albania", DASMA
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2345015277/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3859453486/index.m3u8
 
 #EXTINF:-1 tvg-name="DASMA" group-title="Albania", DASMA
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3859453486/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2345015277/index.m3u8
 
 #EXTINF:-1 tvg-name="DASMA TV (1)" group-title="Albania", DASMA TV (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3876927075/index.m3u8
@@ -2035,10 +2035,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2556105227/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3408901292/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM AKSION" group-title="Albania", FILM AKSION
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/933551170/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2239435112/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM AKSION" group-title="Albania", FILM AKSION
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2239435112/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/933551170/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM AKSION HD (1)" group-title="Albania", FILM AKSION HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/892299779/index.m3u8
@@ -2101,10 +2101,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3198423508/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2996800511/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM KOMEDI" group-title="Albania", FILM KOMEDI
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/186415161/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3116610835/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM KOMEDI" group-title="Albania", FILM KOMEDI
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3116610835/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/186415161/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM KOMEDI (1)" group-title="Albania", FILM KOMEDI (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1308852885/index.m3u8
@@ -2200,10 +2200,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1823018509/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1756972531/index.m3u8
 
 #EXTINF:-1 tvg-name="FOLK+" group-title="Albania", FOLK+
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1228655692/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/620187023/index.m3u8
 
 #EXTINF:-1 tvg-name="FOLK+" group-title="Albania", FOLK+
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/620187023/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1228655692/index.m3u8
 
 #EXTINF:-1 tvg-name="FOLKLORIT" group-title="Albania", FOLKLORIT
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2258693543/index.m3u8
@@ -2680,10 +2680,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1631488945/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2428038388/index.m3u8
 
 #EXTINF:-1 tvg-name="PEACE TV" group-title="Albania", PEACE TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3210918940/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3099241224/index.m3u8
 
 #EXTINF:-1 tvg-name="PEACE TV" group-title="Albania", PEACE TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3099241224/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3210918940/index.m3u8
 
 #EXTINF:-1 tvg-name="PEACE TV (1)" group-title="Albania", PEACE TV (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/922818527/index.m3u8
@@ -2770,10 +2770,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/51277531/ind
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3927742558/index.m3u8
 
 #EXTINF:-1 tvg-name="RTK 4" group-title="Albania", RTK 4
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2972627659/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3705811720/index.m3u8
 
 #EXTINF:-1 tvg-name="RTK 4" group-title="Albania", RTK 4
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3705811720/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2972627659/index.m3u8
 
 #EXTINF:-1 tvg-name="RTK 4 (1)" group-title="Albania", RTK 4 (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1480344654/index.m3u8
@@ -2800,10 +2800,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3846665415/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1049131028/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH 3" group-title="Albania", RTSH 3
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/842544341/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/685846568/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH 3" group-title="Albania", RTSH 3
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/685846568/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/842544341/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH FEMIJE" group-title="Albania", RTSH FEMIJE
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1192504822/index.m3u8
@@ -2866,19 +2866,19 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1737553037/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1800075235/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH SPORT" group-title="Albania", RTSH SPORT
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1868852854/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1673424152/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH SPORT" group-title="Albania", RTSH SPORT
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1673424152/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1868852854/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV 2 MIX" group-title="Albania", RTV 2 MIX
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2365781947/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV 21" group-title="Albania", RTV 21
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4133472451/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3968257086/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV 21" group-title="Albania", RTV 21
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3968257086/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4133472451/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV 21 (1)" group-title="Albania", RTV 21 (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/968062638/index.m3u8
@@ -3049,10 +3049,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/469747947/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1710767079/index.m3u8
 
 #EXTINF:-1 tvg-name="SOFIA" group-title="Albania", SOFIA
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4170898200/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2505464539/index.m3u8
 
 #EXTINF:-1 tvg-name="SOFIA" group-title="Albania", SOFIA
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2505464539/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4170898200/index.m3u8
 
 #EXTINF:-1 tvg-name="SOLE TV (1)" group-title="Albania", SOLE TV (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2490410943/index.m3u8
@@ -3553,10 +3553,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/357641176/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3448134024/index.m3u8
 
 #EXTINF:-1 tvg-name="VIZION PLUS" group-title="Albania", VIZION PLUS
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1857650165/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3697717471/index.m3u8
 
 #EXTINF:-1 tvg-name="VIZION PLUS" group-title="Albania", VIZION PLUS
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3697717471/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1857650165/index.m3u8
 
 #EXTINF:-1 tvg-name="VIZION PLUS (1)" group-title="Albania", VIZION PLUS (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/732333913/index.m3u8
@@ -7924,10 +7924,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/197875554/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1973649955/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN" group-title="Balkans", 24 KITCHEN
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/802245103/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/587942529/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN" group-title="Balkans", 24 KITCHEN
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/587942529/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/802245103/index.m3u8
 
 #EXTINF:-1 tvg-name="ALFA TV" group-title="Balkans", ALFA TV
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/572109402/index.m3u8
@@ -8038,10 +8038,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/777626841/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1781921808/index.m3u8
 
 #EXTINF:-1 tvg-name="AXN SPIN" group-title="Balkans", AXN SPIN
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1099487210/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1179697406/index.m3u8
 
 #EXTINF:-1 tvg-name="AXN SPIN" group-title="Balkans", AXN SPIN
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1179697406/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1099487210/index.m3u8
 
 #EXTINF:-1 tvg-name="BABY TV" group-title="Balkans", BABY TV
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3166119033/index.m3u8
@@ -8059,19 +8059,19 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1561391128/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1595188996/index.m3u8
 
 #EXTINF:-1 tvg-name="BHT 1" group-title="Balkans", BHT 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2942971146/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3265703113/index.m3u8
 
 #EXTINF:-1 tvg-name="BHT 1" group-title="Balkans", BHT 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3265703113/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2942971146/index.m3u8
 
 #EXTINF:-1 tvg-name="BN" group-title="Balkans", BN
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1545863727/index.m3u8
 
 #EXTINF:-1 tvg-name="BN MUSIC" group-title="Balkans", BN MUSIC
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/446208285/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/490769929/index.m3u8
 
 #EXTINF:-1 tvg-name="BN MUSIC" group-title="Balkans", BN MUSIC
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/490769929/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/446208285/index.m3u8
 
 #EXTINF:-1 tvg-name="BN2" group-title="Balkans", BN2
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1061880403/index.m3u8
@@ -8131,10 +8131,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1989623711/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2636960944/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX 2" group-title="Balkans", CINEMAX 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/858985043/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/825705807/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX 2" group-title="Balkans", CINEMAX 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/825705807/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/858985043/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX 2 HD (1)" group-title="Balkans", CINEMAX 2 HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/329503571/index.m3u8
@@ -8230,10 +8230,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3889340047/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/858477141/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE" group-title="Balkans", DISCOVERY SCIENCE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2253936606/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1555492746/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE" group-title="Balkans", DISCOVERY SCIENCE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1555492746/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2253936606/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY WORLD" group-title="Balkans", DISCOVERY WORLD
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3759973215/index.m3u8
@@ -8398,10 +8398,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1788977439/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1442214730/index.m3u8
 
 #EXTINF:-1 tvg-name="HAYAT" group-title="Balkans", HAYAT
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3601267133/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3144317054/index.m3u8
 
 #EXTINF:-1 tvg-name="HAYAT" group-title="Balkans", HAYAT
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3144317054/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3601267133/index.m3u8
 
 #EXTINF:-1 tvg-name="HAYAT 2" group-title="Balkans", HAYAT 2
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1005969581/index.m3u8
@@ -8422,25 +8422,25 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2001231385/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/165468085/index.m3u8
 
 #EXTINF:-1 tvg-name="HAYATOVCI" group-title="Balkans", HAYATOVCI
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/426023763/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/459328591/index.m3u8
 
 #EXTINF:-1 tvg-name="HAYATOVCI" group-title="Balkans", HAYATOVCI
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/459328591/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/426023763/index.m3u8
 
 #EXTINF:-1 tvg-name="HAYATOVCI (1)" group-title="Balkans", HAYATOVCI (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1368386480/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO" group-title="Balkans", HBO
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2424553859/index.m3u8
-
-#EXTINF:-1 tvg-name="HBO" group-title="Balkans", HBO
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3988502808/index.m3u8
 
-#EXTINF:-1 tvg-name="HBO 2" group-title="Balkans", HBO 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3828451451/index.m3u8
+#EXTINF:-1 tvg-name="HBO" group-title="Balkans", HBO
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2424553859/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 2" group-title="Balkans", HBO 2
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2315061688/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2" group-title="Balkans", HBO 2
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3828451451/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 2 HD (1)" group-title="Balkans", HBO 2 HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2249984707/index.m3u8
@@ -8632,10 +8632,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1939231416/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1086525812/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKELODEON" group-title="Balkans", NICKELODEON
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1762001907/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3688484569/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKELODEON" group-title="Balkans", NICKELODEON
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3688484569/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1762001907/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKELODEON HR" group-title="Balkans", NICKELODEON HR
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1246262761/index.m3u8
@@ -8719,10 +8719,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/241827126/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1266026394/index.m3u8
 
 #EXTINF:-1 tvg-name="PINK BH" group-title="Balkans", PINK BH
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1354766451/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2333021344/index.m3u8
 
 #EXTINF:-1 tvg-name="PINK BH" group-title="Balkans", PINK BH
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2333021344/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1354766451/index.m3u8
 
 #EXTINF:-1 tvg-name="PINK BRAVO (1)" group-title="Balkans", PINK BRAVO (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1858421691/index.m3u8
@@ -8962,10 +8962,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/992994150/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1016762712/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL CRIME" group-title="Balkans", RTL CRIME
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2708798092/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2742070672/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL CRIME" group-title="Balkans", RTL CRIME
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2742070672/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2708798092/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL KOCKICA" group-title="Balkans", RTL KOCKICA
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1930307647/index.m3u8
@@ -9136,10 +9136,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/924585577/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2043372515/index.m3u8
 
 #EXTINF:-1 tvg-name="TLC" group-title="Balkans", TLC
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2990523347/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3473390408/index.m3u8
 
 #EXTINF:-1 tvg-name="TLC" group-title="Balkans", TLC
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3473390408/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2990523347/index.m3u8
 
 #EXTINF:-1 tvg-name="TLC (1)" group-title="Balkans", TLC (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2070451084/index.m3u8
@@ -9298,10 +9298,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/549796346/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1606160440/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="Bulgaria", ANIMAL PLANET
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2523527914/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4025501657/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="Bulgaria", ANIMAL PLANET
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4025501657/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2523527914/index.m3u8
 
 #EXTINF:-1 tvg-name="AUTO MOTOR SPORT" group-title="Bulgaria", AUTO MOTOR SPORT
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1708359465/index.m3u8
@@ -9379,16 +9379,16 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/131717508/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/442015131/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV" group-title="Bulgaria", BTV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2650040518/index.m3u8
-
-#EXTINF:-1 tvg-name="BTV" group-title="Bulgaria", BTV
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3800908036/index.m3u8
 
-#EXTINF:-1 tvg-name="BTV ACTION" group-title="Bulgaria", BTV ACTION
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/536338491/index.m3u8
+#EXTINF:-1 tvg-name="BTV" group-title="Bulgaria", BTV
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2650040518/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV ACTION" group-title="Bulgaria", BTV ACTION
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2905091345/index.m3u8
+
+#EXTINF:-1 tvg-name="BTV ACTION" group-title="Bulgaria", BTV ACTION
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/536338491/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV CINEMA" group-title="Bulgaria", BTV CINEMA
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1802488789/index.m3u8
@@ -9439,10 +9439,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3577968635/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3533398255/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX 2" group-title="Bulgaria", CINEMAX 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3988717339/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3781491829/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX 2" group-title="Bulgaria", CINEMAX 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3781491829/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3988717339/index.m3u8
 
 #EXTINF:-1 tvg-name="CITY TV" group-title="Bulgaria", CITY TV
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3253967644/index.m3u8
@@ -9475,10 +9475,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/379201128/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1032040630/index.m3u8
 
 #EXTINF:-1 tvg-name="DIEMA SPORT" group-title="Bulgaria", DIEMA SPORT
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3984233559/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/782948666/index.m3u8
 
 #EXTINF:-1 tvg-name="DIEMA SPORT" group-title="Bulgaria", DIEMA SPORT
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/782948666/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3984233559/index.m3u8
 
 #EXTINF:-1 tvg-name="DIEMA SPORT 2" group-title="Bulgaria", DIEMA SPORT 2
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2945858102/index.m3u8
@@ -9514,10 +9514,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2986022367/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3694629916/index.m3u8
 
 #EXTINF:-1 tvg-name="DUCK TV" group-title="Bulgaria", DUCK TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/593884695/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/616423683/index.m3u8
 
 #EXTINF:-1 tvg-name="DUCK TV" group-title="Bulgaria", DUCK TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/616423683/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/593884695/index.m3u8
 
 #EXTINF:-1 tvg-name="E KIDS" group-title="Bulgaria", E KIDS
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1106460317/index.m3u8
@@ -9550,10 +9550,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3250423496/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1541535727/index.m3u8
 
 #EXTINF:-1 tvg-name="FEN TV" group-title="Bulgaria", FEN TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4194813727/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/566807500/index.m3u8
 
 #EXTINF:-1 tvg-name="FEN TV" group-title="Bulgaria", FEN TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/566807500/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4194813727/index.m3u8
 
 #EXTINF:-1 tvg-name="FIGHTBOX" group-title="Bulgaria", FIGHTBOX
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3066884648/index.m3u8
@@ -9673,16 +9673,16 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3502546645/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/320132024/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 3" group-title="Bulgaria", MAX SPORT 3
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/779418120/index.m3u8
-
-#EXTINF:-1 tvg-name="MAX SPORT 3" group-title="Bulgaria", MAX SPORT 3
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3986995045/index.m3u8
 
-#EXTINF:-1 tvg-name="MAX SPORT 4" group-title="Bulgaria", MAX SPORT 4
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2622760472/index.m3u8
+#EXTINF:-1 tvg-name="MAX SPORT 3" group-title="Bulgaria", MAX SPORT 3
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/779418120/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 4" group-title="Bulgaria", MAX SPORT 4
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1602513781/index.m3u8
+
+#EXTINF:-1 tvg-name="MAX SPORT 4" group-title="Bulgaria", MAX SPORT 4
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2622760472/index.m3u8
 
 #EXTINF:-1 tvg-name="MOTORVISION" group-title="Bulgaria", MOTORVISION
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1804212747/index.m3u8
@@ -10171,10 +10171,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1490095787/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1063761523/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="France", BEIN SPORTS 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3970882082/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/796825423/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="France", BEIN SPORTS 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/796825423/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3970882082/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 (1)" group-title="France", BEIN SPORTS 2 (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2727132226/index.m3u8
@@ -10603,10 +10603,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3655983806/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/972384002/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ CINEMA" group-title="France", CANAL+ CINEMA
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/781538197/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3980730104/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ CINEMA" group-title="France", CANAL+ CINEMA
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3980730104/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/781538197/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ CINEMA FHD" group-title="France", CANAL+ CINEMA FHD
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/289838749/index.m3u8
@@ -10675,10 +10675,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/599931871/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/128077399/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SERIES" group-title="France", CANAL+ SERIES
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/907568283/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4123535862/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SERIES" group-title="France", CANAL+ SERIES
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4123535862/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/907568283/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SERIES FHD" group-title="France", CANAL+ SERIES FHD
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2141653939/index.m3u8
@@ -10825,10 +10825,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2651402557/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/587024854/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ EMOTION" group-title="France", CINE+ EMOTION
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/754676906/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4012587463/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ EMOTION" group-title="France", CINE+ EMOTION
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4012587463/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/754676906/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ EMOTION FHD" group-title="France", CINE+ EMOTION FHD
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2737270354/index.m3u8
@@ -10930,10 +10930,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2053910442/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3920977229/index.m3u8
 
 #EXTINF:-1 tvg-name="CRIME DISTRICT" group-title="France", CRIME DISTRICT
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2332499529/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2686355607/index.m3u8
 
 #EXTINF:-1 tvg-name="CRIME DISTRICT" group-title="France", CRIME DISTRICT
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2686355607/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2332499529/index.m3u8
 
 #EXTINF:-1 tvg-name="CRIME DISTRICT (1)" group-title="France", CRIME DISTRICT (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2364923189/index.m3u8
@@ -11059,10 +11059,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3222958674/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4123762836/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE" group-title="France", DISCOVERY SCIENCE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1092400111/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2701145683/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE" group-title="France", DISCOVERY SCIENCE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2701145683/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1092400111/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE (1)" group-title="France", DISCOVERY SCIENCE (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1391624118/index.m3u8
@@ -11173,10 +11173,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2551109620/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/584773960/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="France", EUROSPORT 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3719734336/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3513558830/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="France", EUROSPORT 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3513558830/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3719734336/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1 (1)" group-title="France", EUROSPORT 1 (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2935192752/index.m3u8
@@ -11239,10 +11239,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3063169030/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2363504016/index.m3u8
 
 #EXTINF:-1 tvg-name="FOOT+" group-title="France", FOOT+
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1975426357/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/180860151/index.m3u8
 
 #EXTINF:-1 tvg-name="FOOT+" group-title="France", FOOT+
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/180860151/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1975426357/index.m3u8
 
 #EXTINF:-1 tvg-name="FOOT+ (1)" group-title="France", FOOT+ (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3299673666/index.m3u8
@@ -11428,16 +11428,16 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/41325045/ind
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3920376140/index.m3u8
 
 #EXTINF:-1 tvg-name="KTO" group-title="France", KTO
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/885186345/index.m3u8
-
-#EXTINF:-1 tvg-name="KTO" group-title="France", KTO
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1698231409/index.m3u8
 
-#EXTINF:-1 tvg-name="L EQUIPE" group-title="France", L EQUIPE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3837331942/index.m3u8
+#EXTINF:-1 tvg-name="KTO" group-title="France", KTO
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/885186345/index.m3u8
 
 #EXTINF:-1 tvg-name="L EQUIPE" group-title="France", L EQUIPE
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1064699189/index.m3u8
+
+#EXTINF:-1 tvg-name="L EQUIPE" group-title="France", L EQUIPE
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3837331942/index.m3u8
 
 #EXTINF:-1 tvg-name="L EQUIPE LIVE 1" group-title="France", L EQUIPE LIVE 1
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3143265587/index.m3u8
@@ -11458,10 +11458,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2866202423/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3428561083/index.m3u8
 
 #EXTINF:-1 tvg-name="LCI" group-title="France", LCI
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1626744356/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/822873468/index.m3u8
 
 #EXTINF:-1 tvg-name="LCI" group-title="France", LCI
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/822873468/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1626744356/index.m3u8
 
 #EXTINF:-1 tvg-name="LCI (1)" group-title="France", LCI (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3143227243/index.m3u8
@@ -11695,10 +11695,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1341169782/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2662111844/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="France", NAT GEO WILD
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1257890982/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4163250572/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="France", NAT GEO WILD
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4163250572/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1257890982/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD FHD" group-title="France", NAT GEO WILD FHD
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2958993581/index.m3u8
@@ -11776,10 +11776,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4195100803/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/824018318/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ HITS" group-title="France", NRJ HITS
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/730920094/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4032821325/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ HITS" group-title="France", NRJ HITS
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4032821325/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/730920094/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ HITS HD (1)" group-title="France", NRJ HITS HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3639203183/index.m3u8
@@ -11830,10 +11830,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2215485637/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1690567411/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS GEANTS" group-title="France", OCS GEANTS
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1451589438/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1417750562/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS GEANTS" group-title="France", OCS GEANTS
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1417750562/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1451589438/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS GEANTS FHD" group-title="France", OCS GEANTS FHD
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1463363704/index.m3u8
@@ -11842,10 +11842,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1463363704/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/739222299/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS MAX" group-title="France", OCS MAX
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/420647029/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/63673480/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS MAX" group-title="France", OCS MAX
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/63673480/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/420647029/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS MAX FHD" group-title="France", OCS MAX FHD
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2561627199/index.m3u8
@@ -11881,10 +11881,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2762546411/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2580100443/index.m3u8
 
 #EXTINF:-1 tvg-name="PARAMOUNT CHANNEL" group-title="France", PARAMOUNT CHANNEL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2624088632/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2088038276/index.m3u8
 
 #EXTINF:-1 tvg-name="PARAMOUNT CHANNEL" group-title="France", PARAMOUNT CHANNEL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2088038276/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2624088632/index.m3u8
 
 #EXTINF:-1 tvg-name="PARAMOUNT CHANNEL (1)" group-title="France", PARAMOUNT CHANNEL (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2407966305/index.m3u8
@@ -11911,10 +11911,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1387738845/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3024438413/index.m3u8
 
 #EXTINF:-1 tvg-name="PIWI+" group-title="France", PIWI+
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4161488231/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2272423077/index.m3u8
 
 #EXTINF:-1 tvg-name="PIWI+" group-title="France", PIWI+
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2272423077/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4161488231/index.m3u8
 
 #EXTINF:-1 tvg-name="PIWI+ (1)" group-title="France", PIWI+ (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/912390098/index.m3u8
@@ -12055,16 +12055,16 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4197312592/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2642050442/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC DECOUVERTE" group-title="France", RMC DECOUVERTE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2957270266/index.m3u8
-
-#EXTINF:-1 tvg-name="RMC DECOUVERTE" group-title="France", RMC DECOUVERTE
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2606615076/index.m3u8
 
-#EXTINF:-1 tvg-name="RMC SPORT 1" group-title="France", RMC SPORT 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1684642409/index.m3u8
+#EXTINF:-1 tvg-name="RMC DECOUVERTE" group-title="France", RMC DECOUVERTE
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2957270266/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 1" group-title="France", RMC SPORT 1
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1756600583/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC SPORT 1" group-title="France", RMC SPORT 1
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1684642409/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 1 (1)" group-title="France", RMC SPORT 1 (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/388776601/index.m3u8
@@ -12121,10 +12121,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3673418036/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1487109861/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 2" group-title="France", RMC SPORT 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/789832663/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/600432825/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 2" group-title="France", RMC SPORT 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/600432825/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/789832663/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 2 (1)" group-title="France", RMC SPORT 2 (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1351366729/index.m3u8
@@ -12355,10 +12355,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4226813338/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/350896249/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY" group-title="France", SYFY
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3032825500/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3388818951/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY" group-title="France", SYFY
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3388818951/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3032825500/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY (1)" group-title="France", SYFY (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2106748611/index.m3u8
@@ -12499,10 +12499,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3595848084/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3209018316/index.m3u8
 
 #EXTINF:-1 tvg-name="TREK" group-title="France", TREK
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1569435048/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/548656435/index.m3u8
 
 #EXTINF:-1 tvg-name="TREK" group-title="France", TREK
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/548656435/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1569435048/index.m3u8
 
 #EXTINF:-1 tvg-name="TV BREIZH" group-title="France", TV BREIZH
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2320044455/index.m3u8
@@ -12607,10 +12607,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/549334828/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3383548329/index.m3u8
 
 #EXTINF:-1 tvg-name="WARNER TV" group-title="France", WARNER TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2978100125/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3059360905/index.m3u8
 
 #EXTINF:-1 tvg-name="WARNER TV" group-title="France", WARNER TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3059360905/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2978100125/index.m3u8
 
 #EXTINF:-1 tvg-name="WARNER TV NEXT" group-title="France", WARNER TV NEXT
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/488364629/index.m3u8
@@ -12667,10 +12667,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3648815838/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2469693031/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="Germany", ANIMAL PLANET
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1382048336/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2038035598/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="Germany", ANIMAL PLANET
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2038035598/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1382048336/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET HD (1)" group-title="Germany", ANIMAL PLANET HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2440347370/index.m3u8
@@ -12745,10 +12745,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3805773434/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3056472300/index.m3u8
 
 #EXTINF:-1 tvg-name="BADEN TV" group-title="Germany", BADEN TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2177006410/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2249878622/index.m3u8
 
 #EXTINF:-1 tvg-name="BADEN TV" group-title="Germany", BADEN TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2249878622/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2177006410/index.m3u8
 
 #EXTINF:-1 tvg-name="BAYERISCHES FERNSEHEN NORD" group-title="Germany", BAYERISCHES FERNSEHEN NORD
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1474407208/index.m3u8
@@ -12880,10 +12880,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1306153636/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3973450275/index.m3u8
 
 #EXTINF:-1 tvg-name="BON GUSTO" group-title="Germany", BON GUSTO
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3858606957/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3891919985/index.m3u8
 
 #EXTINF:-1 tvg-name="BON GUSTO" group-title="Germany", BON GUSTO
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3891919985/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3858606957/index.m3u8
 
 #EXTINF:-1 tvg-name="BOOMERANG" group-title="Germany", BOOMERANG
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1143040565/index.m3u8
@@ -12910,10 +12910,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1222396230/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1385797497/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Germany", CARTOON NETWORK
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2984717924/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/379030969/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Germany", CARTOON NETWORK
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/379030969/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2984717924/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK (1)" group-title="Germany", CARTOON NETWORK (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1172734405/index.m3u8
@@ -13210,10 +13210,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3839598777/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1419294625/index.m3u8
 
 #EXTINF:-1 tvg-name="DMAX" group-title="Germany", DMAX
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/635686224/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1520100498/index.m3u8
 
 #EXTINF:-1 tvg-name="DMAX" group-title="Germany", DMAX
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1520100498/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/635686224/index.m3u8
 
 #EXTINF:-1 tvg-name="DMAX (1)" group-title="Germany", DMAX (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2498778663/index.m3u8
@@ -13456,10 +13456,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3829617867/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/381261505/index.m3u8
 
 #EXTINF:-1 tvg-name="HEIMAT KANAL" group-title="Germany", HEIMAT KANAL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3743017750/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/482977403/index.m3u8
 
 #EXTINF:-1 tvg-name="HEIMAT KANAL" group-title="Germany", HEIMAT KANAL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/482977403/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3743017750/index.m3u8
 
 #EXTINF:-1 tvg-name="HGTV" group-title="Germany", HGTV
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/974629400/index.m3u8
@@ -13633,10 +13633,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1528334905/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/636744481/index.m3u8
 
 #EXTINF:-1 tvg-name="LIGHT CHANNEL" group-title="Germany", LIGHT CHANNEL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3577177074/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4264490284/index.m3u8
 
 #EXTINF:-1 tvg-name="LIGHT CHANNEL" group-title="Germany", LIGHT CHANNEL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4264490284/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3577177074/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA FUSSBALL 1 HD (1)" group-title="Germany", MAGENTA FUSSBALL 1 HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3136042538/index.m3u8
@@ -13693,10 +13693,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2778934529/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1762209183/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 1" group-title="Germany", MAGENTA SPORT 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1810523752/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3432695221/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 1" group-title="Germany", MAGENTA SPORT 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3432695221/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1810523752/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 10" group-title="Germany", MAGENTA SPORT 10
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1438750126/index.m3u8
@@ -13873,10 +13873,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2633164625/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/960731050/index.m3u8
 
 #EXTINF:-1 tvg-name="N24 DOKU" group-title="Germany", N24 DOKU
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1567866372/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1521199376/index.m3u8
 
 #EXTINF:-1 tvg-name="N24 DOKU" group-title="Germany", N24 DOKU
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1521199376/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1567866372/index.m3u8
 
 #EXTINF:-1 tvg-name="N24 DOKU HD (1)" group-title="Germany", N24 DOKU HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3084650651/index.m3u8
@@ -13885,10 +13885,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3084650651/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/825882949/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Germany", NAT GEO
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3763693854/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/999974349/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Germany", NAT GEO
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/999974349/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3763693854/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO (1)" group-title="Germany", NAT GEO (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2169389937/index.m3u8
@@ -13948,10 +13948,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/846416462/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3316874696/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKTOONS" group-title="Germany", NICKTOONS
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2952309881/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2919037797/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKTOONS" group-title="Germany", NICKTOONS
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2919037797/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2952309881/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKTOONS (1)" group-title="Germany", NICKTOONS (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3843525510/index.m3u8
@@ -13966,10 +13966,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2137936559/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/855045177/index.m3u8
 
 #EXTINF:-1 tvg-name="NITRO" group-title="Germany", NITRO
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/371136743/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2077464868/index.m3u8
 
 #EXTINF:-1 tvg-name="NITRO" group-title="Germany", NITRO
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2077464868/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/371136743/index.m3u8
 
 #EXTINF:-1 tvg-name="NITRO HEVC (1)" group-title="Germany", NITRO HEVC (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3085198764/index.m3u8
@@ -14002,10 +14002,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1916915806/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/636855243/index.m3u8
 
 #EXTINF:-1 tvg-name="OBERPFALZ TV" group-title="Germany", OBERPFALZ TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3088262763/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2076404486/index.m3u8
 
 #EXTINF:-1 tvg-name="OBERPFALZ TV" group-title="Germany", OBERPFALZ TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2076404486/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3088262763/index.m3u8
 
 #EXTINF:-1 tvg-name="OE24.TV" group-title="Germany", OE24.TV
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1156381856/index.m3u8
@@ -14068,10 +14068,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4203783497/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3354430713/index.m3u8
 
 #EXTINF:-1 tvg-name="ORF SPORT+" group-title="Germany", ORF SPORT+
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3251653121/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3440003439/index.m3u8
 
 #EXTINF:-1 tvg-name="ORF SPORT+" group-title="Germany", ORF SPORT+
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3440003439/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3251653121/index.m3u8
 
 #EXTINF:-1 tvg-name="OTVA" group-title="Germany", OTVA
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4193046475/index.m3u8
@@ -14197,10 +14197,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1923435141/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1287517758/index.m3u8
 
 #EXTINF:-1 tvg-name="RAKUTEN COMEDY MOVIES" group-title="Germany", RAKUTEN COMEDY MOVIES
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1133586429/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3087996908/index.m3u8
 
 #EXTINF:-1 tvg-name="RAKUTEN COMEDY MOVIES" group-title="Germany", RAKUTEN COMEDY MOVIES
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3087996908/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1133586429/index.m3u8
 
 #EXTINF:-1 tvg-name="RAKUTEN COMEDY MOVIES 2" group-title="Germany", RAKUTEN COMEDY MOVIES 2
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3499073467/index.m3u8
@@ -14290,10 +14290,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2937299004/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2747900754/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL" group-title="Germany", RTL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2732807498/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3755683281/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL" group-title="Germany", RTL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3755683281/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2732807498/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 2 HD+ (1)" group-title="Germany", RTL 2 HD+ (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1758367531/index.m3u8
@@ -14566,10 +14566,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/884019093/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2454124205/index.m3u8
 
 #EXTINF:-1 tvg-name="SAT 1 GOLD" group-title="Germany", SAT 1 GOLD
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1623445374/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1813629968/index.m3u8
 
 #EXTINF:-1 tvg-name="SAT 1 GOLD" group-title="Germany", SAT 1 GOLD
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1813629968/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1623445374/index.m3u8
 
 #EXTINF:-1 tvg-name="SAT 1 HD (1)" group-title="Germany", SAT 1 HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3017451059/index.m3u8
@@ -14656,10 +14656,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2473434130/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1074950765/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY ATLANTIC" group-title="Germany", SKY ATLANTIC
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1213433745/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2340670204/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY ATLANTIC" group-title="Germany", SKY ATLANTIC
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2340670204/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1213433745/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY ATLANTIC HD (1)" group-title="Germany", SKY ATLANTIC HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3714049053/index.m3u8
@@ -14911,10 +14911,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3251224651/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2277123450/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA BEST OF" group-title="Germany", SKY CINEMA BEST OF
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/767567985/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1506084946/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA BEST OF" group-title="Germany", SKY CINEMA BEST OF
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1506084946/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/767567985/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA BEST OF HD (1)" group-title="Germany", SKY CINEMA BEST OF HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4183661289/index.m3u8
@@ -14983,10 +14983,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3650034867/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2331906255/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA NOSTALGIE" group-title="Germany", SKY CINEMA NOSTALGIE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/29738879/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/631616247/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA NOSTALGIE" group-title="Germany", SKY CINEMA NOSTALGIE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/631616247/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/29738879/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA PREMIEREN" group-title="Germany", SKY CINEMA PREMIEREN
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4117277461/index.m3u8
@@ -15013,10 +15013,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1743038820/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4265879600/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA SPECIAL" group-title="Germany", SKY CINEMA SPECIAL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1141836536/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/805972699/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA SPECIAL" group-title="Germany", SKY CINEMA SPECIAL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/805972699/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1141836536/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA SPECIAL HD (1)" group-title="Germany", SKY CINEMA SPECIAL HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3150979982/index.m3u8
@@ -15088,10 +15088,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3979079292/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2147384713/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY NATURE" group-title="Germany", SKY NATURE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2979356473/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3176094807/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY NATURE" group-title="Germany", SKY NATURE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3176094807/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2979356473/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY NATURE HD (1)" group-title="Germany", SKY NATURE HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1699811246/index.m3u8
@@ -15184,10 +15184,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1622417772/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4285440754/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 2" group-title="Germany", SKY SELECT 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3936894153/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/695759268/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 2" group-title="Germany", SKY SELECT 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/695759268/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3936894153/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 2 (1)" group-title="Germany", SKY SELECT 2 (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2760530601/index.m3u8
@@ -15220,10 +15220,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/734703369/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1421987543/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 5" group-title="Germany", SKY SELECT 5
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2606280116/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1485365465/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 5" group-title="Germany", SKY SELECT 5
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1485365465/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2606280116/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 5 (1)" group-title="Germany", SKY SELECT 5 (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/380274361/index.m3u8
@@ -15493,10 +15493,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2485128816/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3819519883/index.m3u8
 
 #EXTINF:-1 tvg-name="SONNENKLAR TV" group-title="Germany", SONNENKLAR TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4215383566/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3495440592/index.m3u8
 
 #EXTINF:-1 tvg-name="SONNENKLAR TV" group-title="Germany", SONNENKLAR TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3495440592/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4215383566/index.m3u8
 
 #EXTINF:-1 tvg-name="SONUS FM ALEMANIA" group-title="Germany", SONUS FM ALEMANIA
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/572426887/index.m3u8
@@ -15526,10 +15526,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/873237024/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/725548284/index.m3u8
 
 #EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE" group-title="Germany", SPIEGEL GESCHICHTE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1039565178/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1240703321/index.m3u8
 
 #EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE" group-title="Germany", SPIEGEL GESCHICHTE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1240703321/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1039565178/index.m3u8
 
 #EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE (1)" group-title="Germany", SPIEGEL GESCHICHTE (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/382424172/index.m3u8
@@ -15670,10 +15670,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1680063305/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3160192054/index.m3u8
 
 #EXTINF:-1 tvg-name="TAGESSCHAU 24" group-title="Germany", TAGESSCHAU 24
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3957687275/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3237745973/index.m3u8
 
 #EXTINF:-1 tvg-name="TAGESSCHAU 24" group-title="Germany", TAGESSCHAU 24
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3237745973/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3957687275/index.m3u8
 
 #EXTINF:-1 tvg-name="TAGESSCHAU24 HD (1)" group-title="Germany", TAGESSCHAU24 HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/186690144/index.m3u8
@@ -15859,10 +15859,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3897746736/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1364897583/index.m3u8
 
 #EXTINF:-1 tvg-name="UNIVERSAL TV" group-title="Germany", UNIVERSAL TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/616177248/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3882504973/index.m3u8
 
 #EXTINF:-1 tvg-name="UNIVERSAL TV" group-title="Germany", UNIVERSAL TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3882504973/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/616177248/index.m3u8
 
 #EXTINF:-1 tvg-name="UNIVERSAL TV HD (1)" group-title="Germany", UNIVERSAL TV HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/269260313/index.m3u8
@@ -15904,10 +15904,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/770027360/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1367605401/index.m3u8
 
 #EXTINF:-1 tvg-name="VOX" group-title="Germany", VOX
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3622161112/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2866655811/index.m3u8
 
 #EXTINF:-1 tvg-name="VOX" group-title="Germany", VOX
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2866655811/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3622161112/index.m3u8
 
 #EXTINF:-1 tvg-name="VOX HD (1)" group-title="Germany", VOX HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2099765212/index.m3u8
@@ -15973,10 +15973,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2171614967/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2422241584/index.m3u8
 
 #EXTINF:-1 tvg-name="WELT" group-title="Germany", WELT
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2639678240/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3794756322/index.m3u8
 
 #EXTINF:-1 tvg-name="WELT" group-title="Germany", WELT
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3794756322/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2639678240/index.m3u8
 
 #EXTINF:-1 tvg-name="WELT (1)" group-title="Germany", WELT (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/742772823/index.m3u8
@@ -16033,10 +16033,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2357166742/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2866292554/index.m3u8
 
 #EXTINF:-1 tvg-name="ZDF INFO" group-title="Germany", ZDF INFO
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/438448158/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/502933258/index.m3u8
 
 #EXTINF:-1 tvg-name="ZDF INFO" group-title="Germany", ZDF INFO
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/502933258/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/438448158/index.m3u8
 
 #EXTINF:-1 tvg-name="ZDF INFO HD (1)" group-title="Germany", ZDF INFO HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2309304070/index.m3u8
@@ -16098,9 +16098,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/116299718/in
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3911047486/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3022771961/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3373510242/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3022771961/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3841982646/index.m3u8
 
@@ -16136,17 +16136,17 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1289777017/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1744435623/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2381583828/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/62558606/index.m3u8
 
@@ -16154,9 +16154,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1768670187/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/64060922/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/433893159/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3658277450/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/433893159/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1322483308/index.m3u8
 
@@ -16188,9 +16188,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2113273064/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3037871903/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2651461317/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1264775727/index.m3u8
 
@@ -16218,9 +16218,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4222258377/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/490955579/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3481346857/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3448075317/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3481346857/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2317684453/index.m3u8
 
@@ -16250,9 +16250,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2179686828/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1995860185/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4060499455/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2373936189/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4060499455/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2116902817/index.m3u8
 
@@ -16264,13 +16264,13 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2897782781/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4248997029/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2134724757/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/317837654/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2392139008/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2134724757/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2488017405/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2392139008/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2973773076/index.m3u8
 
@@ -16302,9 +16302,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1370869299/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3027903278/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/84139639/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1425667375/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/84139639/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2143522071/index.m3u8
 
@@ -16410,9 +16410,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1711134994/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2627662768/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
 
@@ -16422,9 +16422,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/in
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2049087681/index.m3u8
 
@@ -16432,9 +16432,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3163380543/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3249873828/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1803677691/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1901652742/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1803677691/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/374675593/index.m3u8
 
@@ -16452,9 +16452,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2861734300/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2007798511/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1886684667/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2007798511/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2924135092/index.m3u8
 
@@ -16486,17 +16486,17 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4031388312/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3656080408/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1574975196/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2251241999/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1574975196/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2165549789/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3075118500/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4198218214/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2235732004/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4198218214/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3351863213/index.m3u8
 
@@ -16548,9 +16548,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1421393119/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
 
@@ -16572,13 +16572,13 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/in
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1281264885/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3060043751/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1820997555/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3060043751/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1759625738/index.m3u8
 
@@ -16590,9 +16590,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/464281981/in
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3810188456/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1944682394/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1492183364/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1944682394/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2268489342/index.m3u8
 
@@ -16610,17 +16610,17 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1284441949/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3470758028/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/573618724/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/153693434/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2416993844/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3137990890/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2416993844/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2909818756/index.m3u8
 
@@ -16638,9 +16638,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1440779061/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2130255339/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1134113883/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/836680112/index.m3u8
 
@@ -16718,9 +16718,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/88205050/ind
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1284194905/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3009377513/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3009377513/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/11653719/index.m3u8
 
@@ -16814,9 +16814,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3420407456/i
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/269503091/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2797857045/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2764553737/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2797857045/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2310699492/index.m3u8
 
@@ -16858,9 +16858,9 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/376550441/in
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2070070755/index.m3u8
 
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4271554009/index.m3u8
-
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2471902234/index.m3u8
+
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4271554009/index.m3u8
 
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2791781421/index.m3u8
 
@@ -16925,10 +16925,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2288615636/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3668541006/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Netherlands", CARTOON NETWORK
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2959444159/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/179283867/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Netherlands", CARTOON NETWORK
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/179283867/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2959444159/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOONITO" group-title="Netherlands", CARTOONITO
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3955498624/index.m3u8
@@ -16940,10 +16940,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2455610291/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1019029636/index.m3u8
 
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" group-title="Netherlands", COMEDY CENTRAL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1068119176/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1269765291/index.m3u8
 
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" group-title="Netherlands", COMEDY CENTRAL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1269765291/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1068119176/index.m3u8
 
 #EXTINF:-1 tvg-name="COMEDY CENTRAL EXTRA" group-title="Netherlands", COMEDY CENTRAL EXTRA
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1396002728/index.m3u8
@@ -16991,10 +16991,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/203464866/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2897120181/index.m3u8
 
 #EXTINF:-1 tvg-name="DUCK TV" group-title="Netherlands", DUCK TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/855410063/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2149796005/index.m3u8
 
 #EXTINF:-1 tvg-name="DUCK TV" group-title="Netherlands", DUCK TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2149796005/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/855410063/index.m3u8
 
 #EXTINF:-1 tvg-name="E!" group-title="Netherlands", E!
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/486015393/index.m3u8
@@ -17009,10 +17009,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1484494458/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1397846137/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 2" group-title="Netherlands", ESPN 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/351341225/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/405473735/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 2" group-title="Netherlands", ESPN 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/405473735/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/351341225/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 3" group-title="Netherlands", ESPN 3
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/697377561/index.m3u8
@@ -17021,16 +17021,16 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/697377561/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/625680503/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 4" group-title="Netherlands", ESPN 4
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2612133641/index.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 4" group-title="Netherlands", ESPN 4
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2540436583/index.m3u8
 
-#EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Netherlands", EUROSPORT 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2736390217/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 4" group-title="Netherlands", ESPN 4
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2612133641/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Netherlands", EUROSPORT 1
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/74097556/index.m3u8
+
+#EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Netherlands", EUROSPORT 1
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2736390217/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Netherlands", EUROSPORT 2
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3837426329/index.m3u8
@@ -17045,10 +17045,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/330363772/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3322172799/index.m3u8
 
 #EXTINF:-1 tvg-name="FAMILY 7" group-title="Netherlands", FAMILY 7
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/453029930/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3637574983/index.m3u8
 
 #EXTINF:-1 tvg-name="FAMILY 7" group-title="Netherlands", FAMILY 7
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3637574983/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/453029930/index.m3u8
 
 #EXTINF:-1 tvg-name="FASHION TV" group-title="Netherlands", FASHION TV
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1467439935/index.m3u8
@@ -17183,10 +17183,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2172927372/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1637398576/index.m3u8
 
 #EXTINF:-1 tvg-name="NET 5" group-title="Netherlands", NET 5
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1784324088/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1751042276/index.m3u8
 
 #EXTINF:-1 tvg-name="NET 5" group-title="Netherlands", NET 5
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1751042276/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1784324088/index.m3u8
 
 #EXTINF:-1 tvg-name="NICK JR" group-title="Netherlands", NICK JR
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2470622316/index.m3u8
@@ -17216,10 +17216,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/778544979/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2021521631/index.m3u8
 
 #EXTINF:-1 tvg-name="NPO 1" group-title="Netherlands", NPO 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3428620639/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3461926467/index.m3u8
 
 #EXTINF:-1 tvg-name="NPO 1" group-title="Netherlands", NPO 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3461926467/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3428620639/index.m3u8
 
 #EXTINF:-1 tvg-name="NPO 1 EXTRA" group-title="Netherlands", NPO 1 EXTRA
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3002543848/index.m3u8
@@ -17429,16 +17429,16 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1844152054/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2796238877/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV DRENTHE" group-title="Netherlands", RTV DRENTHE
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/160313327/index.m3u8
-
-#EXTINF:-1 tvg-name="RTV DRENTHE" group-title="Netherlands", RTV DRENTHE
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2935917618/index.m3u8
 
-#EXTINF:-1 tvg-name="RTV MAASTRICHT" group-title="Netherlands", RTV MAASTRICHT
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1803785885/index.m3u8
+#EXTINF:-1 tvg-name="RTV DRENTHE" group-title="Netherlands", RTV DRENTHE
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/160313327/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV MAASTRICHT" group-title="Netherlands", RTV MAASTRICHT
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/528922302/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV MAASTRICHT" group-title="Netherlands", RTV MAASTRICHT
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1803785885/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV NOF 1" group-title="Netherlands", RTV NOF 1
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/431031381/index.m3u8
@@ -17639,10 +17639,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1643798837/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1167725757/index.m3u8
 
 #EXTINF:-1 tvg-name="ZIGGO SPORT RACING" group-title="Netherlands", ZIGGO SPORT RACING
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/459281257/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1777530589/index.m3u8
 
 #EXTINF:-1 tvg-name="ZIGGO SPORT RACING" group-title="Netherlands", ZIGGO SPORT RACING
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1777530589/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/459281257/index.m3u8
 
 #EXTINF:-1 tvg-name="ZIGGO SPORT SELECT" group-title="Netherlands", ZIGGO SPORT SELECT
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/739290895/index.m3u8
@@ -22748,10 +22748,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1702937932/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3828793616/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN" group-title="Turkey", 24 KITCHEN
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3295699287/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3329504843/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN" group-title="Turkey", 24 KITCHEN
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3329504843/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3295699287/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN HD (1)" group-title="Turkey", 24 KITCHEN HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4285350247/index.m3u8
@@ -23087,10 +23087,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2318923445/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4202445834/index.m3u8
 
 #EXTINF:-1 tvg-name="A SPOR" group-title="Turkey", A SPOR
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1561958971/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/819272696/index.m3u8
 
 #EXTINF:-1 tvg-name="A SPOR" group-title="Turkey", A SPOR
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/819272696/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1561958971/index.m3u8
 
 #EXTINF:-1 tvg-name="A SPOR FHD (1)" group-title="Turkey", A SPOR FHD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/911836506/index.m3u8
@@ -23249,10 +23249,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/511738384/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/259370032/index.m3u8
 
 #EXTINF:-1 tvg-name="AS TV BURSA" group-title="Turkey", AS TV BURSA
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2084587437/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1889158339/index.m3u8
 
 #EXTINF:-1 tvg-name="AS TV BURSA" group-title="Turkey", AS TV BURSA
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1889158339/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2084587437/index.m3u8
 
 #EXTINF:-1 tvg-name="ASLAN TV (1)" group-title="Turkey", ASLAN TV (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2042734050/index.m3u8
@@ -23342,10 +23342,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3692337241/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2919229346/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN BOX OFFICE 1" group-title="Turkey", BEIN BOX OFFICE 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2930746102/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1320363850/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN BOX OFFICE 1" group-title="Turkey", BEIN BOX OFFICE 1
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1320363850/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2930746102/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN BOX OFFICE 2" group-title="Turkey", BEIN BOX OFFICE 2
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/152264090/index.m3u8
@@ -23390,10 +23390,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/650851542/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2617318386/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" group-title="Turkey", BEIN MOVIES FAMILY
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1322228068/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2485199152/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" group-title="Turkey", BEIN MOVIES FAMILY
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2485199152/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1322228068/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" group-title="Turkey", BEIN MOVIES PREMIERE
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2197747964/index.m3u8
@@ -23402,10 +23402,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2197747964/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/942987224/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE 2" group-title="Turkey", BEIN MOVIES PREMIERE 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2244069093/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2120218356/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE 2" group-title="Turkey", BEIN MOVIES PREMIERE 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2120218356/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2244069093/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES STARS" group-title="Turkey", BEIN MOVIES STARS
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2500913164/index.m3u8
@@ -23414,10 +23414,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2500913164/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1963748784/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES TURK" group-title="Turkey", BEIN MOVIES TURK
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1835579025/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3390575948/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES TURK" group-title="Turkey", BEIN MOVIES TURK
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3390575948/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1835579025/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SERIES 1" group-title="Turkey", BEIN SERIES 1
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2190922298/index.m3u8
@@ -23507,10 +23507,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/206371329/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3410167560/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Turkey", BEIN SPORTS 4
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3640906370/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/450076655/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Turkey", BEIN SPORTS 4
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/450076655/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3640906370/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 4 HD (1)" group-title="Turkey", BEIN SPORTS 4 HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1872232768/index.m3u8
@@ -23570,10 +23570,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4071474743/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/225281423/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" group-title="Turkey", BEIN SPORTS MAX 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4017295127/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/258968235/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" group-title="Turkey", BEIN SPORTS MAX 2
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/258968235/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4017295127/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 2 FHD (1)" group-title="Turkey", BEIN SPORTS MAX 2 FHD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3407936242/index.m3u8
@@ -23774,10 +23774,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1313600851/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/178755989/index.m3u8
 
 #EXTINF:-1 tvg-name="CAY TV" group-title="Turkey", CAY TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4090316698/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2650916441/index.m3u8
 
 #EXTINF:-1 tvg-name="CAY TV" group-title="Turkey", CAY TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2650916441/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4090316698/index.m3u8
 
 #EXTINF:-1 tvg-name="CBEEBIES" group-title="Turkey", CBEEBIES
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2823044667/index.m3u8
@@ -24056,10 +24056,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3650386062/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/999352745/index.m3u8
 
 #EXTINF:-1 tvg-name="DOST TV" group-title="Turkey", DOST TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/896813028/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/799884057/index.m3u8
 
 #EXTINF:-1 tvg-name="DOST TV" group-title="Turkey", DOST TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/799884057/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/896813028/index.m3u8
 
 #EXTINF:-1 tvg-name="DOST TV (1)" group-title="Turkey", DOST TV (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3762421108/index.m3u8
@@ -24293,10 +24293,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2207104549/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4090141978/index.m3u8
 
 #EXTINF:-1 tvg-name="EURO D" group-title="Turkey", EURO D
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3358854668/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2784530383/index.m3u8
 
 #EXTINF:-1 tvg-name="EURO D" group-title="Turkey", EURO D
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2784530383/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3358854668/index.m3u8
 
 #EXTINF:-1 tvg-name="EURO D (1)" group-title="Turkey", EURO D (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1290434890/index.m3u8
@@ -24536,10 +24536,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2851147991/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1203601013/index.m3u8
 
 #EXTINF:-1 tvg-name="GALATASARAY TV" group-title="Turkey", GALATASARAY TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1059828077/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/338831283/index.m3u8
 
 #EXTINF:-1 tvg-name="GALATASARAY TV" group-title="Turkey", GALATASARAY TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/338831283/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1059828077/index.m3u8
 
 #EXTINF:-1 tvg-name="GAZIANTEP GRT TV (1)" group-title="Turkey", GAZIANTEP GRT TV (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2843011698/index.m3u8
@@ -24647,10 +24647,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2129890787/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1281270568/index.m3u8
 
 #EXTINF:-1 tvg-name="HALK TV" group-title="Turkey", HALK TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4148513719/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3986444106/index.m3u8
 
 #EXTINF:-1 tvg-name="HALK TV" group-title="Turkey", HALK TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3986444106/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4148513719/index.m3u8
 
 #EXTINF:-1 tvg-name="HALK TV HD (1)" group-title="Turkey", HALK TV HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1771999100/index.m3u8
@@ -24812,10 +24812,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4199982600/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/563718875/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7" group-title="Turkey", KANAL 7
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3015649982/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2842046019/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7" group-title="Turkey", KANAL 7
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2842046019/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3015649982/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7 AVRUPA" group-title="Turkey", KANAL 7 AVRUPA
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/916532487/index.m3u8
@@ -24884,16 +24884,16 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3319070670/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1831675683/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL URFA" group-title="Turkey", KANAL URFA
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/847659673/index.m3u8
-
-#EXTINF:-1 tvg-name="KANAL URFA" group-title="Turkey", KANAL URFA
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/813831557/index.m3u8
 
-#EXTINF:-1 tvg-name="KANAL V" group-title="Turkey", KANAL V
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/221540542/index.m3u8
+#EXTINF:-1 tvg-name="KANAL URFA" group-title="Turkey", KANAL URFA
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/847659673/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL V" group-title="Turkey", KANAL V
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/401437763/index.m3u8
+
+#EXTINF:-1 tvg-name="KANAL V" group-title="Turkey", KANAL V
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/221540542/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL Z" group-title="Turkey", KANAL Z
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3368328639/index.m3u8
@@ -24953,10 +24953,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3186688793/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3702528985/index.m3u8
 
 #EXTINF:-1 tvg-name="KON TV" group-title="Turkey", KON TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/862610701/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1587995854/index.m3u8
 
 #EXTINF:-1 tvg-name="KON TV" group-title="Turkey", KON TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1587995854/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/862610701/index.m3u8
 
 #EXTINF:-1 tvg-name="KONSERLER 1" group-title="Turkey", KONSERLER 1
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3739888003/index.m3u8
@@ -25655,10 +25655,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2642935463/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3537232978/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW MAX" group-title="Turkey", SHOW MAX
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2196278652/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1495761327/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW MAX" group-title="Turkey", SHOW MAX
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1495761327/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2196278652/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW RADYO (1)" group-title="Turkey", SHOW RADYO (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3509899144/index.m3u8
@@ -25676,10 +25676,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2009772533/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1880270561/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV" group-title="Turkey", SHOW TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2395422638/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2485009235/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV" group-title="Turkey", SHOW TV
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2485009235/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2395422638/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV FHD (1)" group-title="Turkey", SHOW TV FHD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1449499865/index.m3u8
@@ -26000,10 +26000,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1333128393/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2773252030/index.m3u8
 
 #EXTINF:-1 tvg-name="TGRT BELGESEL" group-title="Turkey", TGRT BELGESEL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1743993546/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2753787815/index.m3u8
 
 #EXTINF:-1 tvg-name="TGRT BELGESEL" group-title="Turkey", TGRT BELGESEL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2753787815/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1743993546/index.m3u8
 
 #EXTINF:-1 tvg-name="TGRT BELGESEL (1)" group-title="Turkey", TGRT BELGESEL (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3925938631/index.m3u8
@@ -26186,10 +26186,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4076672974/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2481339809/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" group-title="Turkey", TRT BELGESEL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2439012215/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/599757405/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" group-title="Turkey", TRT BELGESEL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/599757405/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2439012215/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT BELGESEL HD+ (1)" group-title="Turkey", TRT BELGESEL HD+ (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2661394868/index.m3u8
@@ -26201,10 +26201,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3340997026/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/836826697/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT COCUK" group-title="Turkey", TRT COCUK
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/792228122/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/685794830/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT COCUK" group-title="Turkey", TRT COCUK
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/685794830/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/792228122/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT COCUK RAW (1)" group-title="Turkey", TRT COCUK RAW (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3979837190/index.m3u8
@@ -26261,10 +26261,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/433581315/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/550045102/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR" group-title="Turkey", TRT SPOR
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2114335424/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2781429267/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR" group-title="Turkey", TRT SPOR
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2781429267/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2114335424/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR FHD (1)" group-title="Turkey", TRT SPOR FHD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2952828245/index.m3u8
@@ -26276,10 +26276,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/312904614/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/601788690/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" group-title="Turkey", TRT SPOR YILDIZ
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/93054202/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2081577417/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" group-title="Turkey", TRT SPOR YILDIZ
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2081577417/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/93054202/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ HD (1)" group-title="Turkey", TRT SPOR YILDIZ HD (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1423845809/index.m3u8
@@ -26327,10 +26327,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/898098041/in
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4073129368/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 100" group-title="Turkey", TV 100
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/163520723/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1685299472/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 100" group-title="Turkey", TV 100
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1685299472/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/163520723/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 100 (1)" group-title="Turkey", TV 100 (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3769488982/index.m3u8
@@ -26483,10 +26483,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/3563562547/i
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1868001587/index.m3u8
 
 #EXTINF:-1 tvg-name="ULUSAL KANAL" group-title="Turkey", ULUSAL KANAL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/885453469/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2249801655/index.m3u8
 
 #EXTINF:-1 tvg-name="ULUSAL KANAL" group-title="Turkey", ULUSAL KANAL
-https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2249801655/index.m3u8
+https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/885453469/index.m3u8
 
 #EXTINF:-1 tvg-name="ULUSAL KANAL (1)" group-title="Turkey", ULUSAL KANAL (1)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/1910048817/index.m3u8
