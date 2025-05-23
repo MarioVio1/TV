@@ -1237,10 +1237,10 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/i
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="55" tvg-name="Italy - Serie A : Como vs Internazionale (20:45)" tvg-logo="https://raw.githubusercontent.com/MarioVio1/TV/main/logos/Como_vs_Internazionale.png" group-title="Eventi Live",Italy - Serie A : Como vs Internazionale (20:45)
+#EXTINF:-1 tvg-id="55" tvg-name="Italy - Serie A : Como vs Internazionale (20:45)" tvg-logo="logos/Como_vs_Internazionale.png" group-title="Eventi Live",Italy - Serie A : Como vs Internazionale (20:45)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8
 
-#EXTINF:-1 tvg-id="59" tvg-name="Italy - Serie A : Napoli vs Cagliari (20:45)" tvg-logo="https://raw.githubusercontent.com/MarioVio1/TV/main/logos/Napoli_vs_Cagliari.png" group-title="Eventi Live",Italy - Serie A : Napoli vs Cagliari (20:45)
+#EXTINF:-1 tvg-id="59" tvg-name="Italy - Serie A : Napoli vs Cagliari (20:45)" tvg-logo="logos/Napoli_vs_Cagliari.png" group-title="Eventi Live",Italy - Serie A : Napoli vs Cagliari (20:45)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium59/mono.m3u8
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
@@ -1252,19 +1252,19 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premi
 #EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Storbritanniens Grand Prix Free Practice 1 (11:00)" group-title="Eventi Live",MotoGP : Storbritanniens Grand Prix Free Practice 1 (11:00)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : Tag Heuer Monaco Grand Prix - Practice (11:00)" tvg-logo="https://raw.githubusercontent.com/MarioVio1/TV/main/logos/Tag Heuer Monaco Grand Prix_vs_Practice.png" group-title="Eventi Live",Formula 3 : Tag Heuer Monaco Grand Prix - Practice (11:00)
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : Tag Heuer Monaco Grand Prix - Practice (11:00)" tvg-logo="logos/Tag Heuer Monaco Grand Prix_vs_Practice.png" group-title="Eventi Live",Formula 3 : Tag Heuer Monaco Grand Prix - Practice (11:00)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice (11:05)" tvg-logo="https://raw.githubusercontent.com/MarioVio1/TV/main/logos/Tag Heuer Monaco Grand Prix_vs_Free Practice.png" group-title="Eventi Live",Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice (11:05)
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice (11:05)" tvg-logo="logos/Tag Heuer Monaco Grand Prix_vs_Free Practice.png" group-title="Eventi Live",Formula 2 : Tag Heuer Monaco Grand Prix - Free Practice (11:05)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
 #EXTINF:-1 tvg-id="575" tvg-name="Moto2 : Storbritanniens Grand Prixx Free Practice 1 (12:00)" group-title="Eventi Live",Moto2 : Storbritanniens Grand Prixx Free Practice 1 (12:00)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 (13:30)" tvg-logo="https://raw.githubusercontent.com/MarioVio1/TV/main/logos/Tag Heuer Monaco Grand Prix_vs_Practice 1.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 (13:30)
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 (13:30)" tvg-logo="logos/Tag Heuer Monaco Grand Prix_vs_Practice 1.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Practice 1 (13:30)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying (15:05)" tvg-logo="https://raw.githubusercontent.com/MarioVio1/TV/main/logos/Tag Heuer Monaco Grand Prix_vs_Qualifying.png" group-title="Eventi Live",Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying (15:05)
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying (15:05)" tvg-logo="logos/Tag Heuer Monaco Grand Prix_vs_Qualifying.png" group-title="Eventi Live",Formula 3 : Tag Heuer Monaco Grand Prix - Qualifying (15:05)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
 #EXTINF:-1 tvg-id="575" tvg-name="Moto3 : Storbritanniens Grand Prixx Practice 1 (15:10)" group-title="Eventi Live",Moto3 : Storbritanniens Grand Prixx Practice 1 (15:10)
@@ -1279,7 +1279,7 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premi
 #EXTINF:-1 tvg-id="575" tvg-name="Moto2 : Storbritanniens Grand Prix Practice 1 (16:00)" group-title="Eventi Live",Moto2 : Storbritanniens Grand Prix Practice 1 (16:00)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 (17:00)" tvg-logo="https://raw.githubusercontent.com/MarioVio1/TV/main/logos/Tag Heuer Monaco Grand Prix_vs_Practice 2.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 (17:00)
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 (17:00)" tvg-logo="logos/Tag Heuer Monaco Grand Prix_vs_Practice 2.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 (17:00)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
@@ -1294,7 +1294,7 @@ https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/pre
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="Women's Friendly tournament in Koszalin : Italy vs Netherlands (20:00)" tvg-logo="https://raw.githubusercontent.com/MarioVio1/TV/main/logos/Italy_vs_Netherlands.png" group-title="Eventi Live",Women's Friendly tournament in Koszalin : Italy vs Netherlands (20:00)
+#EXTINF:-1 tvg-id="882" tvg-name="Women's Friendly tournament in Koszalin : Italy vs Netherlands (20:00)" tvg-logo="logos/Italy_vs_Netherlands.png" group-title="Eventi Live",Women's Friendly tournament in Koszalin : Italy vs Netherlands (20:00)
 https://mvajro-tvproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
 
